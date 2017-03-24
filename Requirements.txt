@@ -1,0 +1,16 @@
+Functions Requirements Q/A:
+1. Why should the comman man use this app?
+2. How would we monitor the agents work ethics?
+3. What will the users see in their app window?
+4. What will community policer see in his/her app window?
+5. What will police see in his/her window?
+6. If everything is free, how does this app make money?
+7. Do we have presentation on how the app works?
+
+
+Techinical Requirements Q/A:
+1. Any reference project to compare with?
+2. Do we have high level design?
+3. Do we have component level design?
+4. What technologies we are going to need?
+5. Are we going to hire someone to code?
