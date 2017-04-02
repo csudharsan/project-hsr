@@ -1,3 +1,4 @@
+[ Sudharsan ]
 Functions Requirements Q/A:
 1. What the app offers?
 2. Why should the comman man use this app?
@@ -43,7 +44,25 @@ Agents are trained professional by police and community policer's offering publi
 
 
 2. Why should the comman man use this app?
+10.How do i register to this app?
+Registration, with the following
+	username,
+	email,
+	phone no,
+	agent type
+	gender,
+	Police station Address,
+	circle details.
+    photo copy of aadhar, DL, passport.
 
+
+[Madhav 2nd april 2017]:
+ This App is altered to be useful for each and every person.
+ Users of the App: Every one can use this app.
+ 
+ How can they make use of this App?
+ With the current concept of all the agents that are going to work with us being displayed on the app, the users ( any authenticated person)
+ 
 Also our app should work in such a way that we need to see the persons whether they are available in GPS or not.
 We should see how the CrowdSourcing works for itt to happen/ if not only via GPS.
 
@@ -60,15 +79,4 @@ For public helping hand is available to call or SMS and see if they can get help
 For genuine people safety it is good to send the call or SMS to nearest available person rather than they choose that person nearby. For safety from people who are of criminal mind. 
 
 Have to see what all safety measures to be taken for every individual for them being genuine.
-
-10.How do i register to this app?
-Registration, with the following
-	username,
-	email,
-	phone no,
-	agent type
-	gender,
-	Police station Address,
-	circle details.
-    photo copy of aadhar, DL, passport.
 
