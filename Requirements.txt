@@ -7,6 +7,7 @@ Functions Requirements Q/A:
 6. What will police see in his/her window?
 7. If everything is free, how does this app make money?
 8. Do we have presentation on how the app works?
+10.How do i register to this app?
 
 
 Techinical Requirements Q/A:
@@ -24,6 +25,8 @@ Answers for Functions Requirements:
 This app connects police, community policers, agents with public offering SOS(Save Our Souls) and security solutions to common people.
 Provides map view for users to locate and get help from active agents. 
 
+Suggested name for the app 
+
 #Who is police?
 
 #Who is community policers?
@@ -40,3 +43,14 @@ Agents are trained professional by police and community policer's offering publi
 
 
 2. Why should the comman man use this app?
+
+10.How do i register to this app?
+Registration, with the following
+	username,
+	email,
+	phone no,
+	agent type
+	gender,
+	Police station Address,
+	circle details.
+    photo copy of aadhar, DL, passport.
