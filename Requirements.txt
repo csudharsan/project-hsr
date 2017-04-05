@@ -57,9 +57,17 @@ Registration, with the following
 
 
 [Madhav 2nd april 2017]:
- This App is altered to be useful for each and every person.
- Users of the App: Every one can use this app.
+======Proper Req========
+This App is altered to be useful for each and every person.
  
+Users of the App: Every one can use this app for their own safety requirements. There are multiple use cases that can be thought of with this app.
+ 
+Concept:
+Basic concept of this Application is we create a Safe Environment around us by Ourselves being ProActively contributing to the Society.
+
+We create a set of Agents/Security guards on the roads at our places, be it an Apartment or School or College or Tech Park Or Commercial space or Individual Companies with an Association of Community Policers and Traffic Police/Policer. These Agents/Security guards will register register our App to make themselves offer as a service available on roads for any common person. These Agents/Security guards will be seen as a symbol(not defined yet) showing in different colors like green for being Available , Yellow for partially Available, and grayed out for being InActive.
+======Proper Req========
+====== Abstract points so far ======
  How can they make use of this App?
  With the current concept of all the agents that are going to work with us being displayed on the app, the users ( any authenticated person)
  
@@ -79,5 +87,6 @@ For public helping hand is available to call or SMS and see if they can get help
 For genuine people safety it is good to send the call or SMS to nearest available person rather than they choose that person nearby. For safety from people who are of criminal mind. 
 
 Have to see what all safety measures to be taken for every individual for them being genuine.
+====== Abstract points so far ======
 
-3.
+
