@@ -55,25 +55,54 @@ Registration, with the following
 	circle details.
     photo copy of aadhar, DL, passport.
 
+[Madhav 5th april 2017]:
+===========Proper Req===============
 
-[Madhav 2nd april 2017]:
-======Proper Req========
 This App is altered to be useful for each and every person.
- 
-Users of the App: Every one can use this app for their own safety requirements. There are multiple use cases that can be thought of with this app.
- 
+
+Users of the App:
+================= 
+Every one can use this app for their own safety requirements. There are multiple use cases that can be thought of with this app.
+
 Concept:
-Basic concept of this Application is we create a Safe Environment around us by Ourselves being ProActively contributing to the Society.
+========
+- Basic concept of this Application is that we create a Safe Environment around us by Ourselves being ProActively contributing to the Society.
 
-We create a set of Agents/Security guards on the roads at our places, be it an Apartment or School or College or Tech Park Or Commercial space or Individual Companies with an Association of Community Policers and Traffic Police/Policer. These Agents/Security guards will register register our App to make themselves offer as a service available on roads for any common person. These Agents/Security guards will be seen as a symbol(not defined yet) showing in different colors like green for being Available , Yellow for partially Available, and grayed out for being InActive.
-======Proper Req========
+- We create a set of Agents/Security guards on the roads at our places, be it an Apartment or School or College or Tech Park Or Commercial space or Individual Companies with an Association of Community Policers and Traffic Police/Civil Police.
+
+- These Agents/Security guards will register our App to make themselves offer as a service available on roads for any common person. These Agents/Security guards will be seen on the google map as a symbol(not defined yet) showing in different colors like green for being Available , Yellow for partially Available, and grayed out for being InActive.
+
+- Users of this App are everyone. Everyone means Everyone. Each of the individual will need to be registered with their Authentication details to be provided based on different types of security/ Authentication we will deploy while registration like govt Id details & its verificaiton, Mobile & email Id verification - otp etc.
+Also Securing these details with the police Entities is very important for not misusing this data by some one else. Need to use robust security  features for this registration part of both users and agents.
+
+- So when a person/User faces any problem ( different problems of use cases defined below), these security guards/User agents will be immediate service to either call them or msg them for help by notifying them somehow.
+
+- On the map, Users will be able to see his current location with set of symbols around him on the roads where security guards/agents will be visible as a Helping hand whether he is Active to get any service from him.
+
+- It also indicates that whether that area is really safe seeing the number of people actively visible around that area.
+
+For example:
+If a person has met with an accident at certain area, if this security guard will be there on the roads to help that person with Ambulance support & Police support required to be provided with help of his peer agents/guards if required.
+
+If you are going towards an area in late midnight, you can see if are in quite a safe area while travelling if that area has agents actively working on the maps.
+
+If you see your friend going late to his/her home, this app gives an additional option of tracking a specific person based the persons travelling willing/acceptance only  and they can let you monitor them on road if they have reached to their destination or not  or if they are travelling safely or not.
+
+We can use this app also for closed communities where companies/travel agencies/schools can make use this app for a specific group like for example
+in a school bus if parents want to monitor their school children if they are going on safer route and if they have reached their destination  this app works perfectly for them by monitoring the driver in the app as a school bus. This can be improvised.
+
+There are many more examples that we described in below sections.
+
+- For genuine people safety it is good to send the call or SMS to nearest available person rather than they choose that person nearby. For safety from people who are of criminal mind. 
+
+- Have to see what all safety measures to be taken for every individual for them being genuine.
+
+
+===========Proper Req===============
 ====== Abstract points so far ======
- How can they make use of this App?
- With the current concept of all the agents that are going to work with us being displayed on the app, the users ( any authenticated person)
- 
-Also our app should work in such a way that we need to see the persons whether they are available in GPS or not.
-We should see how the CrowdSourcing works for itt to happen/ if not only via GPS.
-
+-------------------------------------
+List of Use cases we can think of:
+-------------------------------------
 Closed communities. 
 
 Schools can track their school buses for safety and parents can monitor the bus for safety. 
@@ -84,9 +113,8 @@ Like that many more examples.
 
 For public helping hand is available to call or SMS and see if they can get help. 
 
-For genuine people safety it is good to send the call or SMS to nearest available person rather than they choose that person nearby. For safety from people who are of criminal mind. 
 
-Have to see what all safety measures to be taken for every individual for them being genuine.
+
+
 ====== Abstract points so far ======
-
 
