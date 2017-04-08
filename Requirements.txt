@@ -55,6 +55,17 @@ Registration, with the following
 	circle details.
     photo copy of aadhar, DL, passport.
 
+[Sudharsan 08-Apr-2017]:
+
+Couple of more use cases:
+
+1. what happens if the mobile data is un-available for a women who request for help in a un-secured area?
+   soln: a text message from women with certain keyword should alert the agents. Or live updates of agents contact info 
+   	around the circle the women travels.
+2. The agents should also get notification on traffic updates around their circle for their immediate attention and response.
+
+3. Our app should have an option to provide security for the elderly at home and around.
+
 [Madhav 5th april 2017]:
 ===========Proper Req===============
 
