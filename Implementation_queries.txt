@@ -1,0 +1,11 @@
+1. Lets say the same issue is reported by 2 or more public, 
+    how we are going to handle it?
+    How do the agents know that both people are reporting the same issue?
+Probable soln: If the issue is received to agents from same location, then either agents should ask for a photo of the issue
+                location or the public should be notified to asking for the photo automatically by the business logic to be 
+                implemented in the system for more details.
+2. How do you know the no: of agents needed to handle an issue?
+   for example: one agent cant handle a loss of life issue
+Probable soln: No of agents needed should be catogorized based on the issue type.
+
+The biggest challenge is the app should be simple for the public and should also give the agents more insights regarding the problem.
