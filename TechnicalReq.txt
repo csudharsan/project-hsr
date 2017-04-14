@@ -6,3 +6,5 @@ With the above differences we conclude that our application would be requiring n
 
 Identify internet references like tutorials, platforms to use, android sdk requirements
 
+Refer to http://balsamiq.com/ for desigining UI prototype.
+
