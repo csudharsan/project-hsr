@@ -3,3 +3,6 @@ To use native or Hybrid apps:-
 Differences: https://ymedialabs.com/hybrid-vs-native-mobile-apps-the-answer-is-clear/
 
 With the above differences we conclude that our application would be requiring native mobile app dev approach. For android, ios , windows and web
+
+Identify internet references like tutorials, platforms to use, android sdk requirements
+
