@@ -66,6 +66,15 @@ Couple of more use cases:
 
 3. Our app should have an option to provide security for the elderly at home and around.
 
+[14-Apr-2017]
+4. App should have capbility to report hit and run cases, with info like, vechicle type, no, direction which the vechicle went. 
+   This should be circulated immediately to all agents around the defined radius.
+   
+5. Police CPU should collect info from users and agent devices. Real time reports should be generated for analysing by police.
+
+6. Aadhar should be use for authenticating users. And agents should be verified by police physically.
+
+
 [Madhav 5th april 2017]:
 ===========Proper Req===============
 
